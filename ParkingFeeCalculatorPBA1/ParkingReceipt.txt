@@ -1,0 +1,13 @@
+=========================================
+             PARKING RECEIPT             
+=========================================
+Vehicle Type  : Car
+Entry Time    : 09:45
+Exit Time     : 18:50
+Total Duration: 10 hrs (545 mins)
+Rate per Hour : RM 2.00
+Base Fee      : RM 15.00
+Discount      : -RM 0.00
+-----------------------------------------
+TOTAL FEE     : RM 15.00
+=========================================
